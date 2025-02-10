@@ -24,6 +24,15 @@ html {
 }
 
 header {
+  opacity: 0.75;
+  text-align: center;
+  padding: 2rem 0;
+  background: rgba(0, 0, 0, 0.3);
+  backdrop-filter: blur(10px);
+}
+
+footer {
+  opacity: 0.75;
   text-align: center;
   padding: 2rem 0;
   background: rgba(0, 0, 0, 0.3);
